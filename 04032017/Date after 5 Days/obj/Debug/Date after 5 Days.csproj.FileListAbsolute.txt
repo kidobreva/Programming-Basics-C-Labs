@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\04032017\Date after 5 Days\bin\Debug\Date after 5 Days.exe.config
+D:\Kremena\VisualStudio\04032017\Date after 5 Days\bin\Debug\Date after 5 Days.exe
+D:\Kremena\VisualStudio\04032017\Date after 5 Days\bin\Debug\Date after 5 Days.pdb
+D:\Kremena\VisualStudio\04032017\Date after 5 Days\obj\Debug\Date after 5 Days.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\04032017\Date after 5 Days\obj\Debug\Date after 5 Days.exe
+D:\Kremena\VisualStudio\04032017\Date after 5 Days\obj\Debug\Date after 5 Days.pdb

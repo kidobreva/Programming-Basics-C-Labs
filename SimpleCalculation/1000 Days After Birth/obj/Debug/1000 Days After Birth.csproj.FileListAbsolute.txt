@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\SimpleCalculation\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe
+D:\Kremena\VisualStudio\SimpleCalculation\1000 Days After Birth\bin\Debug\1000 Days After Birth.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\1000 Days After Birth\obj\Debug\1000 Days After Birth.exe
+D:\Kremena\VisualStudio\SimpleCalculation\1000 Days After Birth\obj\Debug\1000 Days After Birth.pdb

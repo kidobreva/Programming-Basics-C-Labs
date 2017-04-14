@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Complex Conditional Statements\Personal Titles\bin\Debug\Personal Titles.exe.config
+D:\Kremena\VisualStudio\Complex Conditional Statements\Personal Titles\bin\Debug\Personal Titles.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Personal Titles\bin\Debug\Personal Titles.pdb
+D:\Kremena\VisualStudio\Complex Conditional Statements\Personal Titles\obj\Debug\Personal Titles.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Complex Conditional Statements\Personal Titles\obj\Debug\Personal Titles.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Personal Titles\obj\Debug\Personal Titles.pdb

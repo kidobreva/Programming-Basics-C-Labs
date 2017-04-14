@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Complex Conditional Statements\TradeComissions\bin\Debug\TradeComissions.exe.config
+D:\Kremena\VisualStudio\Complex Conditional Statements\TradeComissions\bin\Debug\TradeComissions.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\TradeComissions\bin\Debug\TradeComissions.pdb
+D:\Kremena\VisualStudio\Complex Conditional Statements\TradeComissions\obj\Debug\TradeComissions.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\TradeComissions\obj\Debug\TradeComissions.pdb

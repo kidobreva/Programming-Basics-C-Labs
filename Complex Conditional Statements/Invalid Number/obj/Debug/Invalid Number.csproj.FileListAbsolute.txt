@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Complex Conditional Statements\Invalid Number\bin\Debug\Invalid Number.exe.config
+D:\Kremena\VisualStudio\Complex Conditional Statements\Invalid Number\bin\Debug\Invalid Number.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Invalid Number\bin\Debug\Invalid Number.pdb
+D:\Kremena\VisualStudio\Complex Conditional Statements\Invalid Number\obj\Debug\Invalid Number.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Complex Conditional Statements\Invalid Number\obj\Debug\Invalid Number.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Invalid Number\obj\Debug\Invalid Number.pdb

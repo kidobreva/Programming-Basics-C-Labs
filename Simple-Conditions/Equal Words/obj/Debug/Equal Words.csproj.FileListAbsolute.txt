@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Simple-Conditions\Equal Words\bin\Debug\Equal Words.exe.config
+D:\Kremena\VisualStudio\Simple-Conditions\Equal Words\bin\Debug\Equal Words.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Equal Words\bin\Debug\Equal Words.pdb
+D:\Kremena\VisualStudio\Simple-Conditions\Equal Words\obj\Debug\Equal Words.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Simple-Conditions\Equal Words\obj\Debug\Equal Words.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Equal Words\obj\Debug\Equal Words.pdb

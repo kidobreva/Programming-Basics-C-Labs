@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Advanced-Loops\Even Powers of 2\bin\Debug\Even Powers of 2.exe.config
+D:\Kremena\VisualStudio\Advanced-Loops\Even Powers of 2\bin\Debug\Even Powers of 2.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Even Powers of 2\bin\Debug\Even Powers of 2.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Even Powers of 2\obj\Debug\Even Powers of 2.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Even Powers of 2\obj\Debug\Even Powers of 2.pdb

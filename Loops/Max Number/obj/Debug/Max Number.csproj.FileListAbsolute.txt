@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Loops\Max Number\bin\Debug\Max Number.exe.config
+D:\Kremena\VisualStudio\Loops\Max Number\bin\Debug\Max Number.exe
+D:\Kremena\VisualStudio\Loops\Max Number\bin\Debug\Max Number.pdb
+D:\Kremena\VisualStudio\Loops\Max Number\obj\Debug\Max Number.exe
+D:\Kremena\VisualStudio\Loops\Max Number\obj\Debug\Max Number.pdb

@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Loops\Numbers Ending In 7\bin\Debug\Numbers Ending In 7.exe.config
+D:\Kremena\VisualStudio\Loops\Numbers Ending In 7\bin\Debug\Numbers Ending In 7.exe
+D:\Kremena\VisualStudio\Loops\Numbers Ending In 7\bin\Debug\Numbers Ending In 7.pdb
+D:\Kremena\VisualStudio\Loops\Numbers Ending In 7\obj\Debug\Numbers Ending In 7.exe
+D:\Kremena\VisualStudio\Loops\Numbers Ending In 7\obj\Debug\Numbers Ending In 7.pdb

@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Simple-Conditions\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe.config
+D:\Kremena\VisualStudio\Simple-Conditions\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe
+D:\Kremena\VisualStudio\Simple-Conditions\3 Equal Numbers\bin\Debug\3 Equal Numbers.pdb
+D:\Kremena\VisualStudio\Simple-Conditions\3 Equal Numbers\obj\Debug\3 Equal Numbers.exe
+D:\Kremena\VisualStudio\Simple-Conditions\3 Equal Numbers\obj\Debug\3 Equal Numbers.pdb

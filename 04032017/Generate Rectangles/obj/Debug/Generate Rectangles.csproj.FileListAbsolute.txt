@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\04032017\Generate Rectangles\bin\Debug\Generate Rectangles.exe.config
+D:\Kremena\VisualStudio\04032017\Generate Rectangles\bin\Debug\Generate Rectangles.exe
+D:\Kremena\VisualStudio\04032017\Generate Rectangles\bin\Debug\Generate Rectangles.pdb
+D:\Kremena\VisualStudio\04032017\Generate Rectangles\obj\Debug\Generate Rectangles.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\04032017\Generate Rectangles\obj\Debug\Generate Rectangles.exe
+D:\Kremena\VisualStudio\04032017\Generate Rectangles\obj\Debug\Generate Rectangles.pdb

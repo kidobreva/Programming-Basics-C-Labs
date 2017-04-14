@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Simple-Conditions\Exellent Result\bin\Debug\Exellent Result.exe.config
+D:\Kremena\VisualStudio\Simple-Conditions\Exellent Result\bin\Debug\Exellent Result.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Exellent Result\bin\Debug\Exellent Result.pdb
+D:\Kremena\VisualStudio\Simple-Conditions\Exellent Result\obj\Debug\Exellent Result.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Exellent Result\obj\Debug\Exellent Result.pdb

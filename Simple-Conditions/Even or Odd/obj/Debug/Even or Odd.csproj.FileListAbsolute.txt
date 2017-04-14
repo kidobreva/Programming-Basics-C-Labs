@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.exe.config
+D:\Kremena\VisualStudio\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.pdb
+D:\Kremena\VisualStudio\Simple-Conditions\Even or Odd\obj\Debug\Even or Odd.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Even or Odd\obj\Debug\Even or Odd.pdb

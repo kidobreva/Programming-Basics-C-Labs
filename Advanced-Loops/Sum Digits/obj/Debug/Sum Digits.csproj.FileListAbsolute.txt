@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Advanced-Loops\Sum Digits\bin\Debug\Sum Digits.exe.config
+D:\Kremena\VisualStudio\Advanced-Loops\Sum Digits\bin\Debug\Sum Digits.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Sum Digits\bin\Debug\Sum Digits.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Sum Digits\obj\Debug\Sum Digits.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Advanced-Loops\Sum Digits\obj\Debug\Sum Digits.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Sum Digits\obj\Debug\Sum Digits.pdb

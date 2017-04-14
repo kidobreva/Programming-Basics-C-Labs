@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Christmas Tree\bin\Debug\Christmas Tree.exe.config
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Christmas Tree\bin\Debug\Christmas Tree.exe
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Christmas Tree\bin\Debug\Christmas Tree.pdb
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Christmas Tree\obj\Debug\Christmas Tree.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Christmas Tree\obj\Debug\Christmas Tree.exe
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Christmas Tree\obj\Debug\Christmas Tree.pdb

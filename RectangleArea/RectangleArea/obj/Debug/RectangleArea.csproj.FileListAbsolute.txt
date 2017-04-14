@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\Kremena\VisualStudio\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe
+D:\Kremena\VisualStudio\RectangleArea\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\Kremena\VisualStudio\RectangleArea\RectangleArea\obj\Debug\RectangleArea.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\RectangleArea\RectangleArea\obj\Debug\RectangleArea.exe
+D:\Kremena\VisualStudio\RectangleArea\RectangleArea\obj\Debug\RectangleArea.pdb

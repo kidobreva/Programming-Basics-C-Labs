@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\04032017\Perfect Diamond 1\bin\Debug\Perfect Diamond 1.exe.config
+D:\Kremena\VisualStudio\04032017\Perfect Diamond 1\bin\Debug\Perfect Diamond 1.exe
+D:\Kremena\VisualStudio\04032017\Perfect Diamond 1\bin\Debug\Perfect Diamond 1.pdb
+D:\Kremena\VisualStudio\04032017\Perfect Diamond 1\obj\Debug\Perfect Diamond 1.exe
+D:\Kremena\VisualStudio\04032017\Perfect Diamond 1\obj\Debug\Perfect Diamond 1.pdb
+D:\Kremena\VisualStudio\04032017\Perfect Diamond 1\obj\Debug\Perfect Diamond 1.csprojResolveAssemblyReference.cache

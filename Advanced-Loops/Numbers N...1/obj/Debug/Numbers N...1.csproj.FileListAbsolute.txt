@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers N...1\bin\Debug\Numbers_N._._._1.exe.config
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers N...1\bin\Debug\Numbers_N._._._1.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers N...1\bin\Debug\Numbers_N._._._1.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers N...1\obj\Debug\Numbers_N._._._1.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers N...1\obj\Debug\Numbers_N._._._1.pdb

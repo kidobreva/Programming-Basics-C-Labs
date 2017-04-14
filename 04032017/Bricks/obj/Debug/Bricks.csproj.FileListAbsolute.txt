@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\04032017\Bricks\bin\Debug\Bricks.exe.config
+D:\Kremena\VisualStudio\04032017\Bricks\bin\Debug\Bricks.exe
+D:\Kremena\VisualStudio\04032017\Bricks\bin\Debug\Bricks.pdb
+D:\Kremena\VisualStudio\04032017\Bricks\obj\Debug\Bricks.exe
+D:\Kremena\VisualStudio\04032017\Bricks\obj\Debug\Bricks.pdb
+D:\Kremena\VisualStudio\04032017\Bricks\obj\Debug\Bricks.csprojResolveAssemblyReference.cache

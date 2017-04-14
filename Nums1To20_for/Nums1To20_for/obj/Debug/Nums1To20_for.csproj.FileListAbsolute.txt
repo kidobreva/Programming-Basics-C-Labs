@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Nums1To20_for\Nums1To20_for\bin\Debug\Nums1To20_for.exe.config
+D:\Kremena\VisualStudio\Nums1To20_for\Nums1To20_for\obj\Debug\Nums1To20_for.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Nums1To20_for\Nums1To20_for\bin\Debug\Nums1To20_for.exe
+D:\Kremena\VisualStudio\Nums1To20_for\Nums1To20_for\bin\Debug\Nums1To20_for.pdb
+D:\Kremena\VisualStudio\Nums1To20_for\Nums1To20_for\obj\Debug\Nums1To20_for.exe
+D:\Kremena\VisualStudio\Nums1To20_for\Nums1To20_for\obj\Debug\Nums1To20_for.pdb

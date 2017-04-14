@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Advanced-Loops\Number Table\bin\Debug\Number Table.exe.config
+D:\Kremena\VisualStudio\Advanced-Loops\Number Table\bin\Debug\Number Table.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Number Table\bin\Debug\Number Table.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Number Table\obj\Debug\Number Table.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Advanced-Loops\Number Table\obj\Debug\Number Table.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Number Table\obj\Debug\Number Table.pdb

@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\Kremena\VisualStudio\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\Kremena\VisualStudio\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\Kremena\VisualStudio\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\Kremena\VisualStudio\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.pdb
+D:\Kremena\VisualStudio\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.csprojResolveAssemblyReference.cache

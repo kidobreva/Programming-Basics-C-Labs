@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Advanced-Loops\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\Kremena\VisualStudio\Advanced-Loops\Fibonacci\bin\Debug\Fibonacci.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Advanced-Loops\Fibonacci\obj\Debug\Fibonacci.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Fibonacci\obj\Debug\Fibonacci.pdb

@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\04032017\Increasing 4 Numbers\bin\Debug\Increasing 4 Numbers.exe.config
+D:\Kremena\VisualStudio\04032017\Increasing 4 Numbers\bin\Debug\Increasing 4 Numbers.exe
+D:\Kremena\VisualStudio\04032017\Increasing 4 Numbers\bin\Debug\Increasing 4 Numbers.pdb
+D:\Kremena\VisualStudio\04032017\Increasing 4 Numbers\obj\Debug\Increasing 4 Numbers.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\04032017\Increasing 4 Numbers\obj\Debug\Increasing 4 Numbers.exe
+D:\Kremena\VisualStudio\04032017\Increasing 4 Numbers\obj\Debug\Increasing 4 Numbers.pdb

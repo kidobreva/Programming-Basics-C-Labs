@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\SimpleCalculation\USD to BGN\bin\Debug\USD to BGN.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\USD to BGN\bin\Debug\USD to BGN.exe
+D:\Kremena\VisualStudio\SimpleCalculation\USD to BGN\bin\Debug\USD to BGN.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\USD to BGN\obj\Debug\USD to BGN.exe
+D:\Kremena\VisualStudio\SimpleCalculation\USD to BGN\obj\Debug\USD to BGN.pdb

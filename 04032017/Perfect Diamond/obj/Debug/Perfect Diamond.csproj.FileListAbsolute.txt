@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\04032017\Perfect Diamond\bin\Debug\Perfect Diamond.exe.config
+D:\Kremena\VisualStudio\04032017\Perfect Diamond\bin\Debug\Perfect Diamond.exe
+D:\Kremena\VisualStudio\04032017\Perfect Diamond\bin\Debug\Perfect Diamond.pdb
+D:\Kremena\VisualStudio\04032017\Perfect Diamond\obj\Debug\Perfect Diamond.exe
+D:\Kremena\VisualStudio\04032017\Perfect Diamond\obj\Debug\Perfect Diamond.pdb

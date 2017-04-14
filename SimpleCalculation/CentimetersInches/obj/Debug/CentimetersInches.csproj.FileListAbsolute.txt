@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\SimpleCalculation\CentimetersInches\bin\Debug\CentimetersInches.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\CentimetersInches\bin\Debug\CentimetersInches.exe
+D:\Kremena\VisualStudio\SimpleCalculation\CentimetersInches\bin\Debug\CentimetersInches.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\CentimetersInches\obj\Debug\CentimetersInches.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\SimpleCalculation\CentimetersInches\obj\Debug\CentimetersInches.exe
+D:\Kremena\VisualStudio\SimpleCalculation\CentimetersInches\obj\Debug\CentimetersInches.pdb

@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Concatenate_Data\Concatenate_Data\bin\Debug\Concatenate_Data.exe.config
+D:\Kremena\VisualStudio\Concatenate_Data\Concatenate_Data\bin\Debug\Concatenate_Data.exe
+D:\Kremena\VisualStudio\Concatenate_Data\Concatenate_Data\bin\Debug\Concatenate_Data.pdb
+D:\Kremena\VisualStudio\Concatenate_Data\Concatenate_Data\obj\Debug\Concatenate_Data.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Concatenate_Data\Concatenate_Data\obj\Debug\Concatenate_Data.exe
+D:\Kremena\VisualStudio\Concatenate_Data\Concatenate_Data\obj\Debug\Concatenate_Data.pdb

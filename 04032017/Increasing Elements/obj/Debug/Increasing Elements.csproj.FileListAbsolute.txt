@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\04032017\Increasing Elements\bin\Debug\Increasing Elements.exe.config
+D:\Kremena\VisualStudio\04032017\Increasing Elements\bin\Debug\Increasing Elements.exe
+D:\Kremena\VisualStudio\04032017\Increasing Elements\bin\Debug\Increasing Elements.pdb
+D:\Kremena\VisualStudio\04032017\Increasing Elements\obj\Debug\Increasing Elements.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\04032017\Increasing Elements\obj\Debug\Increasing Elements.exe
+D:\Kremena\VisualStudio\04032017\Increasing Elements\obj\Debug\Increasing Elements.pdb

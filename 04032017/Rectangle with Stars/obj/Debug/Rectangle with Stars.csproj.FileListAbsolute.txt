@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\04032017\Rectangle with Stars\bin\Debug\Rectangle with Stars.exe.config
+D:\Kremena\VisualStudio\04032017\Rectangle with Stars\bin\Debug\Rectangle with Stars.exe
+D:\Kremena\VisualStudio\04032017\Rectangle with Stars\bin\Debug\Rectangle with Stars.pdb
+D:\Kremena\VisualStudio\04032017\Rectangle with Stars\obj\Debug\Rectangle with Stars.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\04032017\Rectangle with Stars\obj\Debug\Rectangle with Stars.exe
+D:\Kremena\VisualStudio\04032017\Rectangle with Stars\obj\Debug\Rectangle with Stars.pdb

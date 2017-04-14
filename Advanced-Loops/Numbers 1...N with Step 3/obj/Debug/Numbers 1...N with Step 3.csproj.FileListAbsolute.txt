@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers 1...N with Step 3\bin\Debug\Numbers_1._._.N_with_Step_3.exe.config
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers 1...N with Step 3\bin\Debug\Numbers_1._._.N_with_Step_3.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers 1...N with Step 3\bin\Debug\Numbers_1._._.N_with_Step_3.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers 1...N with Step 3\obj\Debug\Numbers 1...N with Step 3.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers 1...N with Step 3\obj\Debug\Numbers_1._._.N_with_Step_3.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Numbers 1...N with Step 3\obj\Debug\Numbers_1._._.N_with_Step_3.pdb

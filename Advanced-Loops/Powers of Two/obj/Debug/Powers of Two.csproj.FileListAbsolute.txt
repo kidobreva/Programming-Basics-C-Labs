@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Advanced-Loops\Powers of Two\bin\Debug\Powers of Two.exe.config
+D:\Kremena\VisualStudio\Advanced-Loops\Powers of Two\bin\Debug\Powers of Two.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Powers of Two\bin\Debug\Powers of Two.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Powers of Two\obj\Debug\Powers of Two.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Powers of Two\obj\Debug\Powers of Two.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Powers of Two\obj\Debug\Powers of Two.csprojResolveAssemblyReference.cache

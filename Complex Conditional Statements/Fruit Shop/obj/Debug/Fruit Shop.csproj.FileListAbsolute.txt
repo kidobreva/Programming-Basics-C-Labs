@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit Shop\bin\Debug\Fruit Shop.exe.config
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit Shop\bin\Debug\Fruit Shop.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit Shop\bin\Debug\Fruit Shop.pdb
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit Shop\obj\Debug\Fruit Shop.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit Shop\obj\Debug\Fruit Shop.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit Shop\obj\Debug\Fruit Shop.pdb

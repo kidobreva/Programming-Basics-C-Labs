@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Loops\Equal Pairs\bin\Debug\Equal Pairs.exe.config
+D:\Kremena\VisualStudio\Loops\Equal Pairs\bin\Debug\Equal Pairs.exe
+D:\Kremena\VisualStudio\Loops\Equal Pairs\bin\Debug\Equal Pairs.pdb
+D:\Kremena\VisualStudio\Loops\Equal Pairs\obj\Debug\Equal Pairs.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Loops\Equal Pairs\obj\Debug\Equal Pairs.exe
+D:\Kremena\VisualStudio\Loops\Equal Pairs\obj\Debug\Equal Pairs.pdb

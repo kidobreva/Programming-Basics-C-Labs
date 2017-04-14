@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Loops\Numbers1To100\bin\Debug\Numbers1To100.exe.config
+D:\Kremena\VisualStudio\Loops\Numbers1To100\bin\Debug\Numbers1To100.exe
+D:\Kremena\VisualStudio\Loops\Numbers1To100\bin\Debug\Numbers1To100.pdb
+D:\Kremena\VisualStudio\Loops\Numbers1To100\obj\Debug\Numbers1To100.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Loops\Numbers1To100\obj\Debug\Numbers1To100.exe
+D:\Kremena\VisualStudio\Loops\Numbers1To100\obj\Debug\Numbers1To100.pdb

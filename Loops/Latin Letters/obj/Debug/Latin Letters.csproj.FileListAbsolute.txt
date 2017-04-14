@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Loops\Latin Letters\bin\Debug\Latin Letters.exe.config
+D:\Kremena\VisualStudio\Loops\Latin Letters\bin\Debug\Latin Letters.exe
+D:\Kremena\VisualStudio\Loops\Latin Letters\bin\Debug\Latin Letters.pdb
+D:\Kremena\VisualStudio\Loops\Latin Letters\obj\Debug\Latin Letters.exe
+D:\Kremena\VisualStudio\Loops\Latin Letters\obj\Debug\Latin Letters.pdb
+D:\Kremena\VisualStudio\Loops\Latin Letters\obj\Debug\Latin Letters.csprojResolveAssemblyReference.cache

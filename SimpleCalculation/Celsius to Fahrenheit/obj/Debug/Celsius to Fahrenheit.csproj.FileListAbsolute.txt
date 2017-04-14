@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\SimpleCalculation\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe
+D:\Kremena\VisualStudio\SimpleCalculation\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.exe
+D:\Kremena\VisualStudio\SimpleCalculation\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.pdb

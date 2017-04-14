@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\SimpleCalculation\Circle area and perimeter\bin\Debug\Circle area and perimeter.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\Circle area and perimeter\bin\Debug\Circle area and perimeter.exe
+D:\Kremena\VisualStudio\SimpleCalculation\Circle area and perimeter\bin\Debug\Circle area and perimeter.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\Circle area and perimeter\obj\Debug\Circle area and perimeter.exe
+D:\Kremena\VisualStudio\SimpleCalculation\Circle area and perimeter\obj\Debug\Circle area and perimeter.pdb

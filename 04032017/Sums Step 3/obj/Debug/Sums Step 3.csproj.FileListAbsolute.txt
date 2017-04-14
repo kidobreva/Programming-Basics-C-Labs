@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\04032017\Sums Step 3\bin\Debug\Sums Step 3.exe.config
+D:\Kremena\VisualStudio\04032017\Sums Step 3\bin\Debug\Sums Step 3.exe
+D:\Kremena\VisualStudio\04032017\Sums Step 3\bin\Debug\Sums Step 3.pdb
+D:\Kremena\VisualStudio\04032017\Sums Step 3\obj\Debug\Sums Step 3.exe
+D:\Kremena\VisualStudio\04032017\Sums Step 3\obj\Debug\Sums Step 3.pdb

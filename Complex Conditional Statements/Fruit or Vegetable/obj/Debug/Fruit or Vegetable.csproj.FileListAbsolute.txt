@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe.config
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.pdb
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.pdb

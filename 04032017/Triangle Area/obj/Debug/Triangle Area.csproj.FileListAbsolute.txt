@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\04032017\Triangle Area\bin\Debug\Triangle Area.exe.config
+D:\Kremena\VisualStudio\04032017\Triangle Area\bin\Debug\Triangle Area.exe
+D:\Kremena\VisualStudio\04032017\Triangle Area\bin\Debug\Triangle Area.pdb
+D:\Kremena\VisualStudio\04032017\Triangle Area\obj\Debug\Triangle Area.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\04032017\Triangle Area\obj\Debug\Triangle Area.exe
+D:\Kremena\VisualStudio\04032017\Triangle Area\obj\Debug\Triangle Area.pdb

@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Simple-Conditions\Speed  Info\bin\Debug\Speed  Info.exe.config
+D:\Kremena\VisualStudio\Simple-Conditions\Speed  Info\bin\Debug\Speed  Info.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Speed  Info\bin\Debug\Speed  Info.pdb
+D:\Kremena\VisualStudio\Simple-Conditions\Speed  Info\obj\Debug\Speed  Info.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Simple-Conditions\Speed  Info\obj\Debug\Speed  Info.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Speed  Info\obj\Debug\Speed  Info.pdb

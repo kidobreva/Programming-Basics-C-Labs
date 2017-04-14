@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.exe.config
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.exe
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.pdb
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.exe
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.pdb
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.csprojResolveAssemblyReference.cache

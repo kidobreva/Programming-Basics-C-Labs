@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Loops\Odd Even Position\bin\Debug\Odd Even Position.exe.config
+D:\Kremena\VisualStudio\Loops\Odd Even Position\bin\Debug\Odd Even Position.exe
+D:\Kremena\VisualStudio\Loops\Odd Even Position\bin\Debug\Odd Even Position.pdb
+D:\Kremena\VisualStudio\Loops\Odd Even Position\obj\Debug\Odd Even Position.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Loops\Odd Even Position\obj\Debug\Odd Even Position.exe
+D:\Kremena\VisualStudio\Loops\Odd Even Position\obj\Debug\Odd Even Position.pdb

@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Loops\Odd Even Sum\bin\Debug\Odd Even Sum.exe.config
+D:\Kremena\VisualStudio\Loops\Odd Even Sum\bin\Debug\Odd Even Sum.exe
+D:\Kremena\VisualStudio\Loops\Odd Even Sum\bin\Debug\Odd Even Sum.pdb
+D:\Kremena\VisualStudio\Loops\Odd Even Sum\obj\Debug\Odd Even Sum.exe
+D:\Kremena\VisualStudio\Loops\Odd Even Sum\obj\Debug\Odd Even Sum.pdb

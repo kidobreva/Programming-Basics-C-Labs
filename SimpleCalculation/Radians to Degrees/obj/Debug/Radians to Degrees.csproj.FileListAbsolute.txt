@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\SimpleCalculation\Radians to Degrees\bin\Debug\Radians to Degrees.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\Radians to Degrees\bin\Debug\Radians to Degrees.exe
+D:\Kremena\VisualStudio\SimpleCalculation\Radians to Degrees\bin\Debug\Radians to Degrees.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\Radians to Degrees\obj\Debug\Radians to Degrees.exe
+D:\Kremena\VisualStudio\SimpleCalculation\Radians to Degrees\obj\Debug\Radians to Degrees.pdb

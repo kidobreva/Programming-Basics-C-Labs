@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Complex Conditional Statements\Point in the Figure\bin\Debug\Point in the Figure.exe.config
+D:\Kremena\VisualStudio\Complex Conditional Statements\Point in the Figure\bin\Debug\Point in the Figure.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Point in the Figure\bin\Debug\Point in the Figure.pdb
+D:\Kremena\VisualStudio\Complex Conditional Statements\Point in the Figure\obj\Debug\Point in the Figure.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Complex Conditional Statements\Point in the Figure\obj\Debug\Point in the Figure.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Point in the Figure\obj\Debug\Point in the Figure.pdb

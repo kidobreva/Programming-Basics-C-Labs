@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Complex Conditional Statements\SmallShop\bin\Debug\SmallShop.exe.config
+D:\Kremena\VisualStudio\Complex Conditional Statements\SmallShop\bin\Debug\SmallShop.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\SmallShop\bin\Debug\SmallShop.pdb
+D:\Kremena\VisualStudio\Complex Conditional Statements\SmallShop\obj\Debug\SmallShop.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Complex Conditional Statements\SmallShop\obj\Debug\SmallShop.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\SmallShop\obj\Debug\SmallShop.pdb

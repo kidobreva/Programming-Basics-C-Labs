@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Advanced-Loops\Number Pyramid\bin\Debug\Number Pyramid.exe.config
+D:\Kremena\VisualStudio\Advanced-Loops\Number Pyramid\bin\Debug\Number Pyramid.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Number Pyramid\bin\Debug\Number Pyramid.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Number Pyramid\obj\Debug\Number Pyramid.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Number Pyramid\obj\Debug\Number Pyramid.pdb

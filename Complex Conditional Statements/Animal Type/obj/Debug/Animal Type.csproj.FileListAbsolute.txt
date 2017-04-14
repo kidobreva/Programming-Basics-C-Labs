@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Complex Conditional Statements\Animal Type\bin\Debug\Animal Type.exe.config
+D:\Kremena\VisualStudio\Complex Conditional Statements\Animal Type\bin\Debug\Animal Type.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Animal Type\bin\Debug\Animal Type.pdb
+D:\Kremena\VisualStudio\Complex Conditional Statements\Animal Type\obj\Debug\Animal Type.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Animal Type\obj\Debug\Animal Type.pdb

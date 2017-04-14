@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\SimpleCalculation\HelloNakov\bin\Debug\HelloNakov.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\HelloNakov\bin\Debug\HelloNakov.exe
+D:\Kremena\VisualStudio\SimpleCalculation\HelloNakov\bin\Debug\HelloNakov.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\HelloNakov\obj\Debug\HelloNakov.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\SimpleCalculation\HelloNakov\obj\Debug\HelloNakov.exe
+D:\Kremena\VisualStudio\SimpleCalculation\HelloNakov\obj\Debug\HelloNakov.pdb

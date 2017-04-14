@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\04032017\Point in Figure\bin\Debug\Point in Figure.exe.config
+D:\Kremena\VisualStudio\04032017\Point in Figure\bin\Debug\Point in Figure.exe
+D:\Kremena\VisualStudio\04032017\Point in Figure\bin\Debug\Point in Figure.pdb
+D:\Kremena\VisualStudio\04032017\Point in Figure\obj\Debug\Point in Figure.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\04032017\Point in Figure\obj\Debug\Point in Figure.exe
+D:\Kremena\VisualStudio\04032017\Point in Figure\obj\Debug\Point in Figure.pdb

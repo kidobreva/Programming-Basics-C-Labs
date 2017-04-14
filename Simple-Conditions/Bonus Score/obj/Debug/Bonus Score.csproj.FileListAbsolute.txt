@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.exe.config
+D:\Kremena\VisualStudio\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.pdb
+D:\Kremena\VisualStudio\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.pdb

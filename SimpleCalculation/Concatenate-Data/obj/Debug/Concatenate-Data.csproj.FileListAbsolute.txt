@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\SimpleCalculation\Concatenate-Data\bin\Debug\Concatenate-Data.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\Concatenate-Data\bin\Debug\Concatenate-Data.exe
+D:\Kremena\VisualStudio\SimpleCalculation\Concatenate-Data\bin\Debug\Concatenate-Data.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\Concatenate-Data\obj\Debug\Concatenate-Data.exe
+D:\Kremena\VisualStudio\SimpleCalculation\Concatenate-Data\obj\Debug\Concatenate-Data.pdb

@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\SimpleCalculation\SquareArea\bin\Debug\SquareArea.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\SquareArea\bin\Debug\SquareArea.exe
+D:\Kremena\VisualStudio\SimpleCalculation\SquareArea\bin\Debug\SquareArea.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\SquareArea\obj\Debug\SquareArea.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\SimpleCalculation\SquareArea\obj\Debug\SquareArea.exe
+D:\Kremena\VisualStudio\SimpleCalculation\SquareArea\obj\Debug\SquareArea.pdb

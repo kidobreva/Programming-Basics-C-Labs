@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Advanced-Loops\Enter Even Number\bin\Debug\Enter Even Number.exe.config
+D:\Kremena\VisualStudio\Advanced-Loops\Enter Even Number\bin\Debug\Enter Even Number.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Enter Even Number\bin\Debug\Enter Even Number.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Enter Even Number\obj\Debug\Enter Even Number.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Advanced-Loops\Enter Even Number\obj\Debug\Enter Even Number.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Enter Even Number\obj\Debug\Enter Even Number.pdb

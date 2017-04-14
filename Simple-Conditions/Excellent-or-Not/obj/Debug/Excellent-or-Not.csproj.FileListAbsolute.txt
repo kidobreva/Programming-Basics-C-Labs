@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Simple-Conditions\Excellent-or-Not\bin\Debug\Excellent-or-Not.exe.config
+D:\Kremena\VisualStudio\Simple-Conditions\Excellent-or-Not\bin\Debug\Excellent-or-Not.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Excellent-or-Not\bin\Debug\Excellent-or-Not.pdb
+D:\Kremena\VisualStudio\Simple-Conditions\Excellent-or-Not\obj\Debug\Excellent-or-Not.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Excellent-or-Not\obj\Debug\Excellent-or-Not.pdb

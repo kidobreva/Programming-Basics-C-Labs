@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\SimpleCalculation\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+D:\Kremena\VisualStudio\SimpleCalculation\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\Trapezoid-Area\obj\Debug\Trapezoid-Area.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\SimpleCalculation\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+D:\Kremena\VisualStudio\SimpleCalculation\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

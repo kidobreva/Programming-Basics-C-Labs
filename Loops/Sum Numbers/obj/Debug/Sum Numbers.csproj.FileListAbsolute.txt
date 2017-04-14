@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Loops\Sum Numbers\bin\Debug\Sum Numbers.exe.config
+D:\Kremena\VisualStudio\Loops\Sum Numbers\bin\Debug\Sum Numbers.exe
+D:\Kremena\VisualStudio\Loops\Sum Numbers\bin\Debug\Sum Numbers.pdb
+D:\Kremena\VisualStudio\Loops\Sum Numbers\obj\Debug\Sum Numbers.exe
+D:\Kremena\VisualStudio\Loops\Sum Numbers\obj\Debug\Sum Numbers.pdb

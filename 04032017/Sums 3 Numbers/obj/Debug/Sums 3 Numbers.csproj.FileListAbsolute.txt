@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\04032017\Sums 3 Numbers\bin\Debug\Sums 3 Numbers.exe.config
+D:\Kremena\VisualStudio\04032017\Sums 3 Numbers\bin\Debug\Sums 3 Numbers.exe
+D:\Kremena\VisualStudio\04032017\Sums 3 Numbers\bin\Debug\Sums 3 Numbers.pdb
+D:\Kremena\VisualStudio\04032017\Sums 3 Numbers\obj\Debug\Sums 3 Numbers.exe
+D:\Kremena\VisualStudio\04032017\Sums 3 Numbers\obj\Debug\Sums 3 Numbers.pdb

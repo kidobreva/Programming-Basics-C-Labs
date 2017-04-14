@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\SimpleCalculation\EnterName\bin\Debug\EnterName.exe.config
+D:\Kremena\VisualStudio\SimpleCalculation\EnterName\bin\Debug\EnterName.exe
+D:\Kremena\VisualStudio\SimpleCalculation\EnterName\bin\Debug\EnterName.pdb
+D:\Kremena\VisualStudio\SimpleCalculation\EnterName\obj\Debug\EnterName.exe
+D:\Kremena\VisualStudio\SimpleCalculation\EnterName\obj\Debug\EnterName.pdb

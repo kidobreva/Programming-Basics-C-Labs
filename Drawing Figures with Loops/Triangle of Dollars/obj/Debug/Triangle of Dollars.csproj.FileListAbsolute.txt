@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe.config
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.pdb
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.exe
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.pdb

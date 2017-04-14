@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\04032017\Point on Segment\bin\Debug\Point on Segment.exe.config
+D:\Kremena\VisualStudio\04032017\Point on Segment\bin\Debug\Point on Segment.exe
+D:\Kremena\VisualStudio\04032017\Point on Segment\bin\Debug\Point on Segment.pdb
+D:\Kremena\VisualStudio\04032017\Point on Segment\obj\Debug\Point on Segment.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\04032017\Point on Segment\obj\Debug\Point on Segment.exe
+D:\Kremena\VisualStudio\04032017\Point on Segment\obj\Debug\Point on Segment.pdb

@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Loops\Left and Right Sum\bin\Debug\Left and Right Sum.exe.config
+D:\Kremena\VisualStudio\Loops\Left and Right Sum\bin\Debug\Left and Right Sum.exe
+D:\Kremena\VisualStudio\Loops\Left and Right Sum\bin\Debug\Left and Right Sum.pdb
+D:\Kremena\VisualStudio\Loops\Left and Right Sum\obj\Debug\Left and Right Sum.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Loops\Left and Right Sum\obj\Debug\Left and Right Sum.exe
+D:\Kremena\VisualStudio\Loops\Left and Right Sum\obj\Debug\Left and Right Sum.pdb

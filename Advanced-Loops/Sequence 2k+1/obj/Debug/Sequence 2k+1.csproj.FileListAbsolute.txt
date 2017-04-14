@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Advanced-Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe.config
+D:\Kremena\VisualStudio\Advanced-Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.exe
+D:\Kremena\VisualStudio\Advanced-Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.pdb
+D:\Kremena\VisualStudio\Advanced-Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.csprojResolveAssemblyReference.cache

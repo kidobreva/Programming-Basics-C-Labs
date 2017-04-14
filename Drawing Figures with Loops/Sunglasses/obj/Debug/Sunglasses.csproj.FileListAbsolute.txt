@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.exe.config
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.exe
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.pdb
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.exe
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.pdb

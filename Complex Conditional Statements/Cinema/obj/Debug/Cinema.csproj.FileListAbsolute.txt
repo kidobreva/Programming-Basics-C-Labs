@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Complex Conditional Statements\Cinema\bin\Debug\Cinema.exe.config
+D:\Kremena\VisualStudio\Complex Conditional Statements\Cinema\bin\Debug\Cinema.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Cinema\bin\Debug\Cinema.pdb
+D:\Kremena\VisualStudio\Complex Conditional Statements\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Complex Conditional Statements\Cinema\obj\Debug\Cinema.exe
+D:\Kremena\VisualStudio\Complex Conditional Statements\Cinema\obj\Debug\Cinema.pdb

@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Loops\Vowels Sum\bin\Debug\Vowels Sum.exe.config
+D:\Kremena\VisualStudio\Loops\Vowels Sum\bin\Debug\Vowels Sum.exe
+D:\Kremena\VisualStudio\Loops\Vowels Sum\bin\Debug\Vowels Sum.pdb
+D:\Kremena\VisualStudio\Loops\Vowels Sum\obj\Debug\Vowels Sum.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Loops\Vowels Sum\obj\Debug\Vowels Sum.exe
+D:\Kremena\VisualStudio\Loops\Vowels Sum\obj\Debug\Vowels Sum.pdb

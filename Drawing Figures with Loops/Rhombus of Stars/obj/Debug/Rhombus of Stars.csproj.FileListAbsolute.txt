@@ -1,0 +1,5 @@
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe.config
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.pdb
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.exe
+D:\Kremena\VisualStudio\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.pdb

@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config
+D:\Kremena\VisualStudio\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.pdb
+D:\Kremena\VisualStudio\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.exe
+D:\Kremena\VisualStudio\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.pdb

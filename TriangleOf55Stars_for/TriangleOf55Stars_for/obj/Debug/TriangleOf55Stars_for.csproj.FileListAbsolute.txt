@@ -1,0 +1,6 @@
+D:\Kremena\VisualStudio\TriangleOf55Stars_for\TriangleOf55Stars_for\bin\Debug\TriangleOf55Stars_for.exe.config
+D:\Kremena\VisualStudio\TriangleOf55Stars_for\TriangleOf55Stars_for\bin\Debug\TriangleOf55Stars_for.exe
+D:\Kremena\VisualStudio\TriangleOf55Stars_for\TriangleOf55Stars_for\bin\Debug\TriangleOf55Stars_for.pdb
+D:\Kremena\VisualStudio\TriangleOf55Stars_for\TriangleOf55Stars_for\obj\Debug\TriangleOf55Stars_for.csprojResolveAssemblyReference.cache
+D:\Kremena\VisualStudio\TriangleOf55Stars_for\TriangleOf55Stars_for\obj\Debug\TriangleOf55Stars_for.exe
+D:\Kremena\VisualStudio\TriangleOf55Stars_for\TriangleOf55Stars_for\obj\Debug\TriangleOf55Stars_for.pdb
